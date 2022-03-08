@@ -1,0 +1,64 @@
+{% extends "layout.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+{% block page %}{{title}}{% endblock %}
+{% block heading %}
+  {{ super() }}
+{% endblock %}
+{% block content %}
+<!--Radio options for importing graph file(s)-->
+<h3>Choose Your Network</h3>
+<div>
+    <form method="POST" action="/">
+        <p>
+        <input type="radio" id="ppi" name="graph_input" value="ppi"> PPI File <br>
+        <input type="radio" id="ne_list" name="graph_input" value="ne_list"> Node/Edge Lists<br>
+        </p>
+        <p><input type="submit" value="Submit"></p>
+    </form>
+</div>
+<!--Import message-->
+{{ import_msg }}
+<!--Statistics table-->
+{% if sum_stats %}
+<br>
+<button data-toggle="collapse" data-target="#sumstats">Summary Statistics</button>
+<div id="sumstats" class="collapse">
+    {{ sum_stats | safe }}
+</div>
+<!--Graph image-->
+<div>
+    <form method="POST" action="/plot.png">
+        <p><input type="submit" value="View Graph" alt="graph"></p>
+    </form>
+</div>
+{% endif %}
+<br>
+
+<!--HGNC Information Tool-->
+<h3>HGNC Information Tool</h3>
+    <form method="POST" action="/get_info">
+    <textarea name="textbox"></textarea>
+    <button type="submit" name="submit">Submit</button>
+    </form>
+    {{ hgnc_info | safe }}
+<br>
+<!--Shortest Path Tool-->
+<h3>Shortest Path Tool</h3>
+    <p>Please enter two HGNC symbols separated by a comma ","</p>
+    <form method="POST" action="/paths">
+        <textarea name="textbox"></textarea>
+        <button type="submit" name="submit">Submit</button>
+    </form>
+<h4>{{ paths_header }}</h4>
+    <ul>
+        {% for n in shortest_path %}
+        <li>{{n}}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
+{% block footer %}
+{{super()}}
+{% endblock %}

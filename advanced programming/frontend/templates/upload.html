@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+{% block content %}
+    <head>
+        <meta charset="UTF-8">
+        <title>Upload New File</title>
+        <h3>Select File to Upload</h3>
+    </head>
+    <body>
+        <form method="POST" action="/uploader" enctype="multipart/form-data">
+            <p><input type="file" name="file"></p>
+            <p><input type="submit" name="uploader_action" value="Upload"></p>
+            <p><input type="submit" name="uploader_action" value="Clear Contents"></p>
+        </form>
+    {{ clear_msg }}
+    </body>
+{% endblock %}
+<br>
+{% block footer %}
+{{super()}}
+{% endblock %}

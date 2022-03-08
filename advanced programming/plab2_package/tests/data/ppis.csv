@@ -1,0 +1,39 @@
+out,interaction_type,in
+KAT6A,physical association,RPL10
+SYMPK,physical association,KAT6A
+STX8,physical association,VAMP3
+STX8,physical association,NSF
+ELAVL1,colocalization,ABCD1
+ELAVL1,physical association,FN1
+ELAVL1,physical association,VCAM1
+ELAVL1,physical association,WWOX
+ELAVL1,physical association,UBE2A
+SCLY,colocalization,REXO2
+USP14,physical association,AR
+USP14,colocalization,PSMC3
+PTGER4,physical association,ARRB1
+KAT6A,direct interaction,H3-4
+H3-4,direct interaction,RAG1
+WDR5,physical association,H3-4
+CTBP1,direct interaction,H3-4
+PHF1,association,H3-4
+H3-4,direct interaction,TRPM7
+H4C6,physical association,RAD21
+U2SURP,physical association,CUL3
+U2SURP,physical association,MIR107
+U2SURP,physical association,MIR25
+U2SURP,direct interaction,DDX42
+U2SURP,physical association,MIR15B
+LMO7,physical association,PPP1CB
+PRKAR1A,physical association,GSK3B
+PRKAR1A,physical association,IFI16
+PRKAR1A,physical association,MTOR
+GRK2,physical association,CCR4
+GRK2,physical association,GIT2
+GNG5,direct interaction,GNB3
+ATP5MF,physical association,PRKN
+B2M,physical association,CFTR
+NUP42,physical association,NCBP1
+RPL26L1,colocalization,RPL13
+RPL26L1,physical association,MAGOH
+RPL26L1,physical association,DGCR8
