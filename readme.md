@@ -15,18 +15,17 @@ For a more visually pleasant experience for browsing the portfolio, check out [s
 
 	- [ neural network]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/neural%20network%2CCNN%2Ctransfer%20learning/neural%20network%2CCNN%2Ctransfer%20learning.ipynb):   used tansorflow, trained the neural network on handwritten digits dataset and computed the model accuracy  by using Adam and AdaGrad optimizer
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	 
 
-- ### Natural Language Processing
+ 
 
 	- [ Variational Autoencoder and Generative Adversarial networks]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/variational%20autoencoder%2CGANs%20%2CLSTM%2C%20transformer/variational%20autoencoder%2CGANs%20%2CLSTM%2C%20transformer.ipynb):  	Loaded the MNIST digits dataset from Keras datasets API. Then built a simple VAE model and Generative Adversarial Networks (GANs)
 
 	- [ transformers and LSTMs]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/variational%20autoencoder%2CGANs%20%2CLSTM%2C%20transformer/variational%20autoencoder%2CGANs%20%2CLSTM%2C%20transformer.ipynb):  	Built a transformers and LSTMs to retain memory of the generated output 
 
-	_Tools: NLTK, scikit_
+	 
 
-- ### Data Analysis and Visualisation
-	- __Python__
+ 
 		- [Ensemble Learning ](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/ensamble%20learning%2CNN%20theoratical%2CNN%20programing/ensamble%20learning%2CNN%20theoratical%2CNN%20programing.ipynb): 	Using breast cancer dataset Trained the following models using Nested Cross Validation while optimizing a selected number of Hyperparameters in the Inner loop using Grid search
 		- o	Random forest, optimizing the number of estimators  
 		- o	Gradient boosting, optimizing boosting steps 
@@ -41,9 +40,9 @@ o	Lasso penalized logistic regression, optimizing L1 regularization strength
 
 		- [ Multiple Linear Model and Anova F test]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Generated a multiple linear model and performed Anova F test using fish dataset
 		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
+	 
 
-	- __R__ 
+	 
 		- [descriptive statistics and Data visualization] ( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/preprocessing%2Cstatistics%2Cdata%20visulization%2Ccorelation/preprocessing%2Cstatistics%2Cdata%20visulization%2Ccorelation.ipynb): Reported the descriptive statistics and visualized the features of the iris dataset loaded from Scikit-Learn 
 		- [Inferential Statistics: Do men or women oppose sex education?](http://rpubs.com/sajal_sharma/inferential_statistics) : Using the GSS (General Social Survey) dataset to infer if, in the year 2012, were men, of 18 years or above in the United States, more likely to oppose sex education in public schools than women.
 		- [Data Visualization: Corruption and Human Development](http://rpubs.com/sajal_sharma/corruption_viz): A scatter plot for the relationship between the 'Human Development Index' and the 'Corruption Perceptions Index' of countries.
