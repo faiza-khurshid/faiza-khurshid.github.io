@@ -103,7 +103,9 @@ genetic sequence assembly The package is used to:
  		-	For having an interactive experience with a web application which allows one to upload a series of DNA strand reads and obtain a list protein predictions.
 
 	
-- ###  Web Development: 
+- ###  Visual Computing: 
+- [Deap Learning,PyTorch Transfer Learning]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/visual%20computing/deep%20learning/vclsi-2021-04-Liu%2C%20Khurshid%20and%20Wang%20(exercise%202).ipynb):train a convolutional neural network for image classification using Pytorch transfer learning 
+- train a convolutional neural network for image classification using transfer learning 
 
 ### Support My Work
 
