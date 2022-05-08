@@ -52,7 +52,46 @@ For a more visually pleasant experience for browsing the portfolio, check out [s
 - ###  Web Development: 
 
 
-	- [Intensive python package for collaboration](https://github.com/faiza-khurshid/faiza-khurshid.github.io/tree/master/advanced%20programming/plab2_packageb): Built a python package using protein-protein interactions consist of both a backend (databases, scripting, etc) and a frontend (website / user interface)
+	- [Intensive python package for collaboration](https://github.com/faiza-khurshid/faiza-khurshid.github.io/tree/master/advanced%20programming/plab2_packageb): Built a python package using protein-protein interactions consist of both a backend (databases, scripting, etc) and a frontend (website / user interface). The project includes following content:
+		-	Basic Git + Markdown
+		-	Good Coding Practices
+
+			-	Virtual environments
+			-	Code documentation
+			-	Type hints
+			-	PEP 8
+
+		-	Zen of Python
+
+
+
+
+		-	Networkx
+		-	Command Line Interface (CLI)
+		-	Object-Oriented Programming (OOP)
+		-	Using an API
+		-	Relational Databases
+		-	Logging
+		-	Unit testing
+
+			-	Code coverage
+		-	Creating a Package
+			-	Cookiecutter
+		-	Creating a user interface (UI)
+		-	Containerization and Docker
+		-	Advanced Git
+
+			-	Merging + Rebasing
+		-	Work as a team
+
+			-	Organize, assign, and communicate about specific tasks using issues in GitLab
+		-	Work on multiple git branches and merge into master branch
+		-	Create a viable package
+
+			-	Code is structured as a package
+			-	Package can be installed and runs
+
+		-	presentation of their package at the end of the semester
 	- [ML with K Nearest Neighbours](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/ML%20with%20K%20Nearest%20Neighbors.ipynb): Learned advanced python programming in
 order to generate a package which performs
 likelihood protein identification via k-mer
