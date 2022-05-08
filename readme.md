@@ -105,7 +105,11 @@ genetic sequence assembly The package is used to:
 	
 - ###  Visual Computing: 
 - [Deap Learning,PyTorch Transfer Learning]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/visual%20computing/deep%20learning/vclsi-2021-04-Liu%2C%20Khurshid%20and%20Wang%20(exercise%202).ipynb):train a convolutional neural network for image classification using Pytorch transfer learning 
-- train a convolutional neural network for image classification using transfer learning 
+- [ Image Processing](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/tree/master/visual%20computing/image%20porocessing/median%20filter%2Cconvoution%20based%20filters%20%2Cseprable%20filter%2C%20cluster%20detection):performed median filter,convoution based filters ,seprable filter, cluster detection on brain image dataset
+- [ Image Segmentation](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/visual%20computing/image%20segmentation/GMM%2CEM%20algorithm%2Cmarkov%20random%20field.pdf): Image Segmentation on brain noisy image by usingb Gausian mixture model ( GMMs) and EM Algorithm  and Mrkove random field
+
+
+
 
 ### Support My Work
 
