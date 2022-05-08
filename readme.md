@@ -97,10 +97,10 @@ order to generate a package which performs
 likelihood protein identification via k-mer
 genetic sequence assembly The package is used to:
 
- 	-	Perform de novo sequence assembly on a set of DNA strands (k-mers).
- 	-	Transcribe and translate the assembled DNA sequence.
-	-	Predict protein the assembled DNA strand may represent.
- 	-	For having an interactive experience with a web application which allows one to upload a series of DNA strand reads and obtain a list protein predictions.
+ 		-	Perform de novo sequence assembly on a set of DNA strands (k-mers).
+ 		-	Transcribe and translate the assembled DNA sequence.
+		-	Predict protein the assembled DNA strand may represent.
+ 		-	For having an interactive experience with a web application which allows one to upload a series of DNA strand reads and obtain a list protein predictions.
 
 	
 
