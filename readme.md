@@ -27,9 +27,9 @@ For a more visually pleasant experience for browsing the portfolio, check out [s
 
  
 	- [Ensemble Learning ](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/ensamble%20learning%2CNN%20theoratical%2CNN%20programing/ensamble%20learning%2CNN%20theoratical%2CNN%20programing.ipynb): 	Using breast cancer dataset Trained the following models using Nested Cross Validation while optimizing a selected number of Hyperparameters in the Inner loop using Grid search
-		- o	Random forest, optimizing the number of estimators  
-		- o	Gradient boosting, optimizing boosting steps
-		- o	Lasso penalized logistic regression, optimizing L1 regularization strength
+		- 	Random forest, optimizing the number of estiators  
+		- 	Gradient boosting, optimizing boosting steps
+		- 	Lasso penalized logistic regression, optimizing L1 regularization strength
 
 	- [ k-means clustering and Gaussian mixture models]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/k%20mean%20clustering%2CGMM%2C%20consense%20clustering/k%20mean%20clustering%2CGMM%2C%20consense%20clustering.ipynb): Cluster the breast cancer dataset using k-means clustering and Gaussian mixture models
 		- [PCA and Decorelation]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Performed a PCA and decorrelation on the feature matrix of leukemia dataset
