@@ -107,7 +107,9 @@ genetic sequence assembly The package is used to:
 - [Deap Learning,PyTorch Transfer Learning]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/visual%20computing/deep%20learning/vclsi-2021-04-Liu%2C%20Khurshid%20and%20Wang%20(exercise%202).ipynb):train a convolutional neural network for image classification using Pytorch transfer learning 
 - [ Image Processing](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/tree/master/visual%20computing/image%20porocessing/median%20filter%2Cconvoution%20based%20filters%20%2Cseprable%20filter%2C%20cluster%20detection):performed median filter,convoution based filters ,seprable filter, cluster detection on brain image dataset
 - [ Image Segmentation](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/visual%20computing/image%20segmentation/GMM%2CEM%20algorithm%2Cmarkov%20random%20field.pdf): Image Segmentation on brain noisy image by usingb Gausian mixture model ( GMMs) and EM Algorithm  and Mrkove random field
-
+- [ Dimensionality Reduction](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/visual%20computing/dimensionality%20reduction/PCA%2CTSNE%2Cparallel%20coordinates%2C%20star%20coordinates.ipynb): used PCA,TSNE,parallel coordinates, star coordinates for dimensionality reduction on Cortex_Nuclear dataset 
+- [  Data Mnipulation and Scaterplot](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/visual%20computing/data%20manipulation%2Cscaterplot/pandas%20and%20scaterplot/pandas%2Cscaterplot.ipynb): performed data manipulation by using pandas also visualize and interpret data by scaterplot
+- [   MRI Regestration](   https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/visual%20computing/MRI%20regestration/image%20in%20k%20space%2Cmegnatic%20resonance%20image%2Caffain%20transformation/image%20in%20k%20space%2Cmegnatic%20resonance%20image%2Caffain%20transformation.ipynb): using brain dataset and Axial dataset performaed megnatic resonance image, image in k space,affain transformation and image regestration
 
 
 
