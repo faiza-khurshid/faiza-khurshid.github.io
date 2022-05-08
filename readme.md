@@ -26,24 +26,24 @@ For a more visually pleasant experience for browsing the portfolio, check out [s
 	 
 
  
-		- [Ensemble Learning ](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/ensamble%20learning%2CNN%20theoratical%2CNN%20programing/ensamble%20learning%2CNN%20theoratical%2CNN%20programing.ipynb): 	Using breast cancer dataset Trained the following models using Nested Cross Validation while optimizing a selected number of Hyperparameters in the Inner loop using Grid search
+	- [Ensemble Learning ](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/ensamble%20learning%2CNN%20theoratical%2CNN%20programing/ensamble%20learning%2CNN%20theoratical%2CNN%20programing.ipynb): 	Using breast cancer dataset Trained the following models using Nested Cross Validation while optimizing a selected number of Hyperparameters in the Inner loop using Grid search
 		- o	Random forest, optimizing the number of estimators  
 		- o	Gradient boosting, optimizing boosting steps 
 o	Lasso penalized logistic regression, optimizing L1 regularization strength
 
-		- [ k-means clustering and Gaussian mixture models]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/k%20mean%20clustering%2CGMM%2C%20consense%20clustering/k%20mean%20clustering%2CGMM%2C%20consense%20clustering.ipynb): Cluster the breast cancer dataset using k-means clustering and Gaussian mixture models
+	- [ k-means clustering and Gaussian mixture models]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/k%20mean%20clustering%2CGMM%2C%20consense%20clustering/k%20mean%20clustering%2CGMM%2C%20consense%20clustering.ipynb): Cluster the breast cancer dataset using k-means clustering and Gaussian mixture models
 		- [PCA and Decorelation]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Performed a PCA and decorrelation on the feature matrix of leukemia dataset
 
 
-		- [ ANOVA F-test and Hierarchical Clustering ]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Perfomed ANOVA F-test and Hierarchical Clustering using leukemia dataset which contains gene expression data
+	- [ ANOVA F-test and Hierarchical Clustering ]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Perfomed ANOVA F-test and Hierarchical Clustering using leukemia dataset which contains gene expression data
 
 
-		- [ Multiple Linear Model and Anova F test]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Generated a multiple linear model and performed Anova F test using fish dataset
+	- [ Multiple Linear Model and Anova F test]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Generated a multiple linear model and performed Anova F test using fish dataset
 		
 	 
 
 	 
-		- [descriptive statistics and Data visualization] ( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/preprocessing%2Cstatistics%2Cdata%20visulization%2Ccorelation/preprocessing%2Cstatistics%2Cdata%20visulization%2Ccorelation.ipynb): Reported the descriptive statistics and visualized the features of the iris dataset loaded from Scikit-Learn 
+	- [descriptive statistics and Data visualization] ( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/preprocessing%2Cstatistics%2Cdata%20visulization%2Ccorelation/preprocessing%2Cstatistics%2Cdata%20visulization%2Ccorelation.ipynb): Reported the descriptive statistics and visualized the features of the iris dataset loaded from Scikit-Learn 
 		- [Inferential Statistics: Do men or women oppose sex education?](http://rpubs.com/sajal_sharma/inferential_statistics) : Using the GSS (General Social Survey) dataset to infer if, in the year 2012, were men, of 18 years or above in the United States, more likely to oppose sex education in public schools than women.
 		- [Data Visualization: Corruption and Human Development](http://rpubs.com/sajal_sharma/corruption_viz): A scatter plot for the relationship between the 'Human Development Index' and the 'Corruption Perceptions Index' of countries.
 		- [Moneyball: Analysing and replacing lost players](http://rpubs.com/sajal_sharma/moneyball_lost_players): Exploration of baseball data for the year 2001 to look at replacements for key players lost by the Oakland A's in 2001. Inspired by the book/movie: Moneyball.
