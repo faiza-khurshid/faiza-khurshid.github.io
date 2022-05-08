@@ -52,22 +52,13 @@ For a more visually pleasant experience for browsing the portfolio, check out [s
 - ###  Web Development: 
 
 
-		- [ML with Logistic Regression](https://github.com/faiza-khurshid/faiza-khurshid.github.io/tree/master/advanced%20programming/plab2_packageb):  Built a python package using protein-protein interactions consist of both a backend (databases, scripting, etc) and a frontend (website / user interface)
-		- [ML with K Nearest Neighbours](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/ML%20with%20K%20Nearest%20Neighbors.ipynb): Learned advanced python programming in
+	- [ML with Logistic Regression](https://github.com/faiza-khurshid/faiza-khurshid.github.io/tree/master/advanced%20programming/plab2_packageb):  Built a python package using protein-protein interactions consist of both a backend (databases, scripting, etc) and a frontend (website / user interface)
+	- [ML with K Nearest Neighbours](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/ML%20with%20K%20Nearest%20Neighbors.ipynb): Learned advanced python programming in
 order to generate a package which performs
 likelihood protein identification via k-mer
 genetic sequence assembly
 
-		- [ML with Decision Trees and Random Forests](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Decision%20Trees%20and%20Random%20Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
-		- [Movie Recommendations using Recommender Systems](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Recommender%20Systems%20with%20Python.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
-
-	- __R__
-		- [ML Logistic Regression](http://rpubs.com/sajal_sharma/micro_logistic): Predicting salary class of a person using logistic regression.
-		- [ML Decision Trees and Random Forests](http://rpubs.com/sajal_sharma/micro_dt_rf): Using Decision Trees and Random Forests to classify schools as Private or Public.
-
-I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/sajal2692/general-portfolio/blob/master/README.md).
-
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at contact@sajalsharma.com. 
+	
 
 ### Support My Work
 
