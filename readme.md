@@ -95,7 +95,12 @@ For a more visually pleasant experience for browsing the portfolio, check out [s
 	- [ML with K Nearest Neighbours](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/ML%20with%20K%20Nearest%20Neighbors.ipynb): Learned advanced python programming in
 order to generate a package which performs
 likelihood protein identification via k-mer
-genetic sequence assembly
+genetic sequence assembly The package is used to:
+
+ -Perform de novo sequence assembly on a set of DNA strands (k-mers).
+ -Transcribe and translate the assembled DNA sequence.
+ - Predict protein the assembled DNA strand may represent.
+ - For having an interactive experience with a web application which allows one to upload a series of DNA strand reads and obtain a list protein predictions.
 
 	
 
