@@ -52,7 +52,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [s
 - ###  Web Development: 
 
 
-	- [Intensive python package for collaboration](https://github.com/faiza-khurshid/faiza-khurshid.github.io/tree/master/advanced%20programming/plab2_packageb): Built a python package using protein-protein interactions consist of both a backend (databases, scripting, etc) and a frontend (website / user interface). The project includes following content:
+	- [Intensive python package for collaboration](https://github.com/faiza-khurshid/faiza-khurshid.github.io/tree/master/advanced%20programming/plab2_package): Built a python package using protein-protein interactions consist of both a backend (databases, scripting, etc) and a frontend (website / user interface). The project includes following content:
 		-	Basic Git + Markdown
 		-	Good Coding Practices
 
