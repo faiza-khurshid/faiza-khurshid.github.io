@@ -1,5 +1,6 @@
 # Portfolio Life Science Informatics
 Repository containing portfolio of my life sience and data science projects for academic, self learning and for the purpose of preserving my university projects. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
+_Tools: NLTK, scikit_
 
 For a more visually pleasant experience for browsing the portfolio, check out [sajalsharma.com](http://sajalsharma.com)
 
