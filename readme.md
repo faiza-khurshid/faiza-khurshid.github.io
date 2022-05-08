@@ -13,7 +13,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [s
 	- [ Random forest]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/elastic%20net%2CCV%2CSvm%2Crandomforest/elastic%20net%2CCV%2CSvm%2Crandomforest.ipynb): Trained Random Forest model using breast cancer dataset
 
 
-	- [ neural network]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/neural%20network%2CCNN%2Ctransfer%20learning/neural%20network%2CCNN%2Ctransfer%20learning.ipynb):   	used tansorflow, trained the neural network on handwritten digits dataset and computed the model accuracy  by using Adam and AdaGrad optimizer
+	- [ neural network]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/neural%20network%2CCNN%2Ctransfer%20learning/neural%20network%2CCNN%2Ctransfer%20learning.ipynb):   used tansorflow, trained the neural network on handwritten digits dataset and computed the model accuracy  by using Adam and AdaGrad optimizer
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
@@ -21,22 +21,30 @@ For a more visually pleasant experience for browsing the portfolio, check out [s
 
 	- [ Variational Autoencoder and Generative Adversarial networks]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/variational%20autoencoder%2CGANs%20%2CLSTM%2C%20transformer/variational%20autoencoder%2CGANs%20%2CLSTM%2C%20transformer.ipynb):  	Loaded the MNIST digits dataset from Keras datasets API. Then built a simple VAE model and Generative Adversarial Networks (GANs)
 
-	- [Cross language Information Retrieval](https://github.com/sajal2692/data-science-portfolio/blob/master/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
+	- [ transformers and LSTMs]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/variational%20autoencoder%2CGANs%20%2CLSTM%2C%20transformer/variational%20autoencoder%2CGANs%20%2CLSTM%2C%20transformer.ipynb):  	Built a transformers and LSTMs to retain memory of the generated output 
 
 	_Tools: NLTK, scikit_
 
 - ### Data Analysis and Visualisation
 	- __Python__
-		- [Scalable Walkability Analysis of Melbourne](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
-		- [Titanic Dataset - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
-		- [Stock Market Analysis for Tech Stocks](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
-		- [2016 US General Election Poll Data Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/2016%20General%20Election%20Poll%20Analysis.ipynb): Very simple analysis of 2016 US General Election Poll data.
-		- [911 Calls - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/911%20Calls%20-%20Exploratory%20Analysis.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+		- [Ensemble Learning ](  https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/ensamble%20learning%2CNN%20theoratical%2CNN%20programing/ensamble%20learning%2CNN%20theoratical%2CNN%20programing.ipynb): 	Using breast cancer dataset Trained the following models using Nested Cross Validation while optimizing a selected number of Hyperparameters in the Inner loop using Grid search
+		- o	Random forest, optimizing the number of estimators  
+		- o	Gradient boosting, optimizing boosting steps 
+o	Lasso penalized logistic regression, optimizing L1 regularization strength
+
+		- [ k-means clustering and Gaussian mixture models]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/k%20mean%20clustering%2CGMM%2C%20consense%20clustering/k%20mean%20clustering%2CGMM%2C%20consense%20clustering.ipynb): Cluster the breast cancer dataset using k-means clustering and Gaussian mixture models
+		- [PCA and Decorelation]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Performed a PCA and decorrelation on the feature matrix of leukemia dataset
+
+
+		- [ ANOVA F-test and Hierarchical Clustering ]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Perfomed ANOVA F-test and Hierarchical Clustering using leukemia dataset which contains gene expression data
+
+
+		- [ Multiple Linear Model and Anova F test]( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Generated a multiple linear model and performed Anova F test using fish dataset
 		
 	_Tools: Pandas, Folium, Seaborn and Matplotlib_
 
 	- __R__ 
-		- [Behavioral Risk Factor Surveillance System(BRFSS) 2013: Exploratory Data Analysis](http://rpubs.com/sajal_sharma/brfss2013): Exploratory analysis of the BRFSS-2013 data set, focusing on investigating the relationship between education and eating habits, sleep and mental health, and smoking, drinking and general health of a person. 
+		- [descriptive statistics and Data visualization] ( https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/preprocessing%2Cstatistics%2Cdata%20visulization%2Ccorelation/preprocessing%2Cstatistics%2Cdata%20visulization%2Ccorelation.ipynb): Reported the descriptive statistics and visualized the features of the iris dataset loaded from Scikit-Learn 
 		- [Inferential Statistics: Do men or women oppose sex education?](http://rpubs.com/sajal_sharma/inferential_statistics) : Using the GSS (General Social Survey) dataset to infer if, in the year 2012, were men, of 18 years or above in the United States, more likely to oppose sex education in public schools than women.
 		- [Data Visualization: Corruption and Human Development](http://rpubs.com/sajal_sharma/corruption_viz): A scatter plot for the relationship between the 'Human Development Index' and the 'Corruption Perceptions Index' of countries.
 		- [Moneyball: Analysing and replacing lost players](http://rpubs.com/sajal_sharma/moneyball_lost_players): Exploration of baseball data for the year 2001 to look at replacements for key players lost by the Oakland A's in 2001. Inspired by the book/movie: Moneyball.
