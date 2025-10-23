@@ -2,7 +2,7 @@
 Repository containing portfolio of my life sience and data science projects for academic, self learning and for the purpose of preserving my university projects.
 ## Contents
 
-- ### Biomedical Datascience & AI
+- ### Datascience & AI
 
 	- [Logistic regression](https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression/linear%20regression%2Cherarical%20clustering%2C%20logistic%20regression.ipynb): Generated a logistic regression model using Leukemia dataset and assess the significance of variables using the likelihood ratio test
 	- [Machine learning models](https://github.com/faiza-khurshid/faiza-khurshid.github.io/blob/master/datascience%20%26%20AI%20projects/NMF%20clustering%2C%20Machine%20learning/NMF%20clustering%2C%20Machine%20learning.ipynb): Trained a machine learning  model on  (Alzheimer's disease) AD dataset that can predict whether a participant is healthy or (Alzheimer's disease) AD
