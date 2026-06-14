@@ -1,9 +1,9 @@
-📊 #Power BI Mobile Sales Dashboard
+# Power BI Mobile Sales Dashboard
 
 An end-to-end Power BI project analyzing mobile sales performance using Excel data, Power Query transformations, DAX measures, and data modeling.
 Includes interactive pages with KPIs, visuals, and year-over-year comparisons.
 
-⚙️ Project Highlights
+## Project Highlights
 
 Designed a custom calendar table for time intelligence.
 
@@ -25,13 +25,13 @@ Same Period Last Year comparisons.
 
 Implemented page navigation for seamless report movement.
 
-📸 Dashboard Pages
+## 📸 Dashboard Pages
 
 Main Dashboard – City-level sales map, monthly trends, brand KPIs, payment method share, and customer ratings.
 
 Same Period Last Year Dashboard – Year, quarter, and month-level comparison of Total Sales vs. previous year.
 
-💡 Key Insights
+## 💡 Key Insights
 
 📱 Top Brands: Apple, Samsung & OnePlus dominate total sales.
 
@@ -45,7 +45,7 @@ Same Period Last Year Dashboard – Year, quarter, and month-level comparison of
 
 🔁 YoY Trend: Slight drop in sales compared to the same period last year (~3% decline).
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 Power BI Desktop
 
