@@ -4,6 +4,50 @@ This repository contains my Data Analysis, Life Sciences and Data Science projec
 ## Contents
 
 - ### Data Science in Business and Corporates
+- #### 👨🏻‍💻 Customer Behavior Analytics Project
+
+This project showcases a complete end-to-end data analytics workflow, demonstrating how raw customer data can be transformed into meaningful business insights. It covers key stages of a real-world analytics project, including data cleaning, exploration, querying, analysis, and reporting.
+
+The project is designed to reflect practical data analyst responsibilities and highlights the use of Python and SQL to support data-driven decision-making.
+
+## 🎯 Project Objectives
+
+The primary objective is to analyze customer purchasing behavior and identify patterns that help businesses better understand customer preferences, engagement, and buying trends.
+
+## 🛠️ Project Workflow
+
+### 1. Data Preparation & Exploratory Data Analysis (Python)
+
+* Cleaned and transformed the dataset to ensure data quality and consistency.
+* Performed exploratory data analysis (EDA) to identify trends, patterns, and anomalies in customer behavior.
+* Prepared the dataset for further analysis.
+
+### 2. Data Analysis (SQL)
+
+* Queried and analyzed customer transaction data.
+* Explored customer segments, purchasing habits, and key business metrics.
+* Extracted insights to support data-driven decision-making.
+
+ 
+
+## 📚 Skills Demonstrated
+
+* Python (Pandas, NumPy, Data Cleaning & Analysis)
+* SQL (Data Querying and Business Analysis)
+* Exploratory Data Analysis (EDA)
+* Data Wrangling and Transformation
+* Business Insight Generation
+## 🚀 Future Work
+
+This project can be further enhanced by expanding its analytical and visualization capabilities. Planned improvements include:
+
+* Developing interactive dashboards using Power BI to better visualize customer behavior trends.
+* Incorporating advanced analytics and machine learning techniques for predictive insights.
+* Automating data pipelines for faster and more efficient data processing.
+* Expanding the dataset to include more customer attributes for deeper analysis.
+* Building a more comprehensive end-to-end business intelligence solution.
+
+
 - #### 📊 Power BI Mobile Sales Dashboard
 
 An end-to-end Power BI project analyzing mobile sales performance using Excel data, Power Query transformations, DAX measures, and data modeling.
