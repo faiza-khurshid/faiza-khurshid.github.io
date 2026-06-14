@@ -1,8 +1,14 @@
 # Portfolio
-Repository containing portfolio of my life sience and data science projects for academic, self learning and for the purpose of preserving my university projects.
+
+This repository contains my Data Analysis, Life Sciences and Data Science projects, including academic coursework, self-learning projects, and university assignments. It serves as a collection of my work, showcasing my skills in data analysis, statistics, machine learning, and scientific research while documenting my continuous learning journey.
 ## Contents
 
 - ### Data Science in Business and Corporates
+- 📊 Power BI Mobile Sales Dashboard
+
+An end-to-end Power BI project analyzing mobile sales performance using Excel data, Power Query transformations, DAX measures, and data modeling.
+Includes interactive pages with KPIs, visuals, and year-over-year comparisons.
+
 
 - ####  Web Development: 
 
