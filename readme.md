@@ -52,6 +52,8 @@ This project can be further enhanced by expanding its analytical and visualizati
 
 An end-to-end Power BI project analyzing mobile sales performance using Excel data, Power Query transformations, DAX measures, and data modeling.
 Includes interactive pages with KPIs, visuals, and year-over-year comparisons.
+https://github.com/faiza-khurshid/faiza-khurshid.github.io/tree/master/PowerBi%20Dashboards
+
 
 
 - ####  Web Development: 
