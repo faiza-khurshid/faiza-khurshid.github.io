@@ -1,4 +1,4 @@
-📊 Power BI Mobile Sales Dashboard
+📊 #Power BI Mobile Sales Dashboard
 
 An end-to-end Power BI project analyzing mobile sales performance using Excel data, Power Query transformations, DAX measures, and data modeling.
 Includes interactive pages with KPIs, visuals, and year-over-year comparisons.
