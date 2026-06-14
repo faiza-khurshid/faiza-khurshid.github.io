@@ -10,19 +10,19 @@ This project showcases a complete end-to-end data analytics workflow, demonstrat
 
 The project is designed to reflect practical data analyst responsibilities and highlights the use of Python and SQL to support data-driven decision-making.
 
-## 🎯 Project Objectives
+##### 🎯 Project Objectives
 
 The primary objective is to analyze customer purchasing behavior and identify patterns that help businesses better understand customer preferences, engagement, and buying trends.
 
-## 🛠️ Project Workflow
+##### 🛠️ Project Workflow
 
-### 1. Data Preparation & Exploratory Data Analysis (Python)
+###### 1. Data Preparation & Exploratory Data Analysis (Python)
 
 * Cleaned and transformed the dataset to ensure data quality and consistency.
 * Performed exploratory data analysis (EDA) to identify trends, patterns, and anomalies in customer behavior.
 * Prepared the dataset for further analysis.
 
-### 2. Data Analysis (SQL)
+###### 2. Data Analysis (SQL)
 
 * Queried and analyzed customer transaction data.
 * Explored customer segments, purchasing habits, and key business metrics.
@@ -30,14 +30,14 @@ The primary objective is to analyze customer purchasing behavior and identify pa
 
  
 
-## 📚 Skills Demonstrated
+###### 📚 Skills Demonstrated
 
 * Python (Pandas, NumPy, Data Cleaning & Analysis)
 * SQL (Data Querying and Business Analysis)
 * Exploratory Data Analysis (EDA)
 * Data Wrangling and Transformation
 * Business Insight Generation
-## 🚀 Future Work
+##### 🚀 Future Work
 
 This project can be further enhanced by expanding its analytical and visualization capabilities. Planned improvements include:
 
