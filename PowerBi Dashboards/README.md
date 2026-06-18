@@ -31,6 +31,7 @@ Main Dashboard – City-level sales map, monthly trends, brand KPIs, payment met
  
 
 ![Power BI Dashboard](https://raw.githubusercontent.com/faiza-khurshid/faiza-khurshid.github.io/main/PowerBi%20Dashboards/Dashboard%20Image.png)
+
 Same Period Last Year Dashboard – Year, quarter, and month-level comparison of Total Sales vs. previous year.
 
 ## 💡 Key Insights
