@@ -30,7 +30,7 @@ Implemented page navigation for seamless report movement.
 Main Dashboard – City-level sales map, monthly trends, brand KPIs, payment method share, and customer ratings.
  
 
-![Power BI Dashboard](https://raw.githubusercontent.com/faiza-khurshid/faiza-khurshid.github.io/main/PowerBi%20Dashboards/Dashboard%20Image.png)
+ PowerBi%20Dashboards/Dashboard%20Image.png
 
 Same Period Last Year Dashboard – Year, quarter, and month-level comparison of Total Sales vs. previous year.
 
