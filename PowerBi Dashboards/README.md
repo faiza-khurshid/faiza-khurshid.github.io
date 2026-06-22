@@ -1,57 +1,60 @@
-# Power BI Mobile Sales Dashboard
+# 📊 Power BI Mobile Sales Dashboard
 
-An end-to-end Power BI project analyzing mobile sales performance using Excel data, Power Query transformations, DAX measures, and data modeling.
-Includes interactive pages with KPIs, visuals, and year-over-year comparisons.
+An interactive Power BI dashboard designed to analyze mobile phone sales performance across brands, cities, time periods, and payment channels. The project leverages Power Query, data modeling, and DAX time-intelligence functions to deliver actionable business insights and year-over-year performance analysis.
 
-## Project Highlights
+## 🚀 Highlights
 
-Designed a custom calendar table for time intelligence.
+- Built an end-to-end Power BI solution using Excel-based sales data.
+- Designed a star-schema data model with a custom calendar table.
+- Developed DAX measures for sales, quantity, transactions, average price, and YoY comparisons.
+- Created interactive dashboards for executive reporting and performance monitoring.
+- Enabled Same Period Last Year (SPLY) analysis using Power BI time-intelligence functions.
 
-Built data model relationships between fact and dimension tables.
+## 📈 Dashboard Features
 
-Applied Power Query for data cleaning & transformation.
+### Executive Sales Dashboard
+- Sales KPIs and performance metrics
+- Brand performance analysis
+- City-level sales distribution
+- Monthly sales trends
+- Payment method breakdown
+- Customer rating insights
 
-Created DAX measures for:
+![Main Dashboard](Dashboard%20Image.png)
 
-Total Sales
+### Year-over-Year Dashboard
+- Current vs Previous Year comparison
+- Sales variance and growth trends
+- Monthly, quarterly, and yearly analysis
+- Same Period Last Year reporting
 
-Total Quantity
+![SPLY Dashboard](Same%20Period%20Last%20Year%20Image.png)
 
-Transactions
+## 💡 Key Business Insights
 
-Average Price
+- Apple, Samsung, and OnePlus generate the highest sales volumes.
+- Mumbai, Delhi, Bangalore, and Chennai are the strongest performing markets.
+- Sales peak during July, while February and September show lower activity.
+- Payment methods are evenly distributed across UPI, Debit Card, Credit Card, and Cash.
+- Customer ratings indicate consistently positive satisfaction levels.
 
-Same Period Last Year comparisons.
+## 🛠️ Technology Stack
 
-Implemented page navigation for seamless report movement.
+- Power BI Desktop
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Modeling & Time Intelligence
 
-## 📸 Dashboard Pages
+## 📂 Files Included
 
-Main Dashboard – City-level sales map, monthly trends, brand KPIs, payment method share, and customer ratings.
- 
+| File | Description |
+|--------|-------------|
+| Sales Powerbi Dashboard.pbix | Power BI report |
+| Mobile Sales Data.xlsx | Source dataset |
+| Dashboard Image.png | Executive dashboard |
+| Same Period Last Year Image.png | YoY dashboard |
 
- PowerBi%20Dashboards/Dashboard%20Image.png
+---
 
-Same Period Last Year Dashboard – Year, quarter, and month-level comparison of Total Sales vs. previous year.
-
-## 💡 Key Insights
-
-📱 Top Brands: Apple, Samsung & OnePlus dominate total sales.
-
-🗓️ Peak Month: July shows the highest quantity sold; February & September dip.
-
-🏙️ Hotspot Cities: Mumbai, Delhi, Bangalore, Chennai lead in total sales.
-
-💳 Payment Split: UPI, Debit, Credit & Cash have near-equal shares (~25% each).
-
-🌟 Ratings: Majority of customers rated “Good,” reflecting high satisfaction.
-
-🔁 YoY Trend: Slight drop in sales compared to the same period last year (~3% decline).
-
-## 🛠️ Tools Used
-
-Power BI Desktop
-
-Power Query
-
-DAX (Data Analysis Expressions)
+**Skills Demonstrated:** Power BI • DAX • Power Query • Data Modeling • Business Intelligence • Data Visualization • Time Intelligence Analytics
