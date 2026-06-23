@@ -1,1 +1,0 @@
-# Visual Computing Projects overview
