@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard designed to analyze mobile phone sales performance across brands, cities, time periods, and payment channels. The project leverages Power Query, data modeling, and DAX time-intelligence functions to deliver actionable business insights and year-over-year performance analysis.
 
+---
+
+**Skills Demonstrated:** Power BI • DAX • Power Query • Data Modeling • Business Intelligence • Data Visualization • Time Intelligence Analytics
+
 ## 🚀 Highlights
 
 - Built an end-to-end Power BI solution using Excel-based sales data.
@@ -57,4 +61,3 @@ An interactive Power BI dashboard designed to analyze mobile phone sales perform
 
 ---
 
-**Skills Demonstrated:** Power BI • DAX • Power Query • Data Modeling • Business Intelligence • Data Visualization • Time Intelligence Analytics
